@@ -31,6 +31,7 @@ This project serves as a **practice set** for beginners and intermediate learner
    git clone https://github.com/Snehalsatre/Core-Java.git
 2. Open any .java file in your IDE.
 3. Compile and run the file:
+   
      javac FileName.java
      java FileName
 
